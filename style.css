@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.textinho {
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #0db813;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+.num {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h3, h4 {
+    font-size: 18px;
+    margin-top: 10px;
+}
